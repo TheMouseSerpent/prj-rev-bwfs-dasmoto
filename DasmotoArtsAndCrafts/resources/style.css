@@ -1,0 +1,19 @@
+h1{
+  font-family: helvetica;
+  font-size: 100px;
+  color: khaki;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("./images/TilePattern.jpeg");
+}
+h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.BoldBlue{
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
